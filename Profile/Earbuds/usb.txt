@@ -1,0 +1,33 @@
+# ViPER4Android audio effect profile
+# Created: Apr 22, 2018 9:15:09 AM
+
+# Profile name: Earbuds
+
+outvol=100
+diffsurr.delay=500
+fidelity.clarity.gain=50
+dynamicsystem.bass=0
+fidelity.bass.mode=0
+playbackgain.maxscaler=400
+reverb.roomwidth=0
+colorfulmusic.midimage=150
+dynamicsystem.coeffs=100;5600;40;80;50;50
+fidelity.clarity.mode=0
+playbackgain.ratio=50
+vhs.qual=0
+viperddc.device=
+fireq=0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;
+convolver.crosschannel=0
+reverb.dry=50
+convolver.kernel=
+fidelity.bass.freq=40
+fidelity.bass.gain=50
+colorfulmusic.coeffs=120;200
+reverb.damp=0
+reverb.roomsize=0
+limiter=100
+playbackgain.volume=80
+channelpan=0
+reverb.wet=0
+cure.crossfeed=0
+vse.value=56;7600

@@ -1,0 +1,24 @@
+# ViPER4Android audio effect profile
+# Created: Apr 22, 2018 3:53:43 PM
+
+# Profile name: Speaker
+
+speaker.reverb.dry=50
+speaker.convolver.kernel=/storage/emulated/legacy/ViPER4Android/Kernel/X-FiXtremeFidelityOnlyCrystalizer-Mid.irs
+speaker.outvol=50
+speaker.limiter=100
+speaker.playbackgain.enable=true
+speaker.fireq.custom=3.5;4.5;5.0;3.5;1.5;1.0;3.5;4.5;5.0;3.5;
+speaker.enable=true
+speaker.playbackgain.maxscaler=400
+speaker.reverb.roomwidth=0
+speaker.reverb.damp=0
+speaker.reverb.roomsize=0
+speaker.convolver.enable=true
+speaker.fireq.enable=true
+speaker.playbackgain.volume=80
+speaker.playbackgain.ratio=100
+speaker.reverb.wet=0
+speaker.fireq=custom
+speaker.spkopt.enable=true
+speaker.convolver.crosschannel=0

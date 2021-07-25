@@ -1,0 +1,42 @@
+# ViPER4Android audio effect profile
+# Created: Apr 22, 2018 9:15:34 AM
+
+# Profile name: Ddd
+
+outvol=100
+playbackgain.enable=true
+diffsurr.delay=500
+fireq.custom=3.5;4.5;5.0;3.5;1.5;1.0;3.5;4.5;5.0;3.5;
+fidelity.clarity.gain=50
+fidelity.bass.mode=0
+dynamicsystem.bass=14
+playbackgain.maxscaler=400
+reverb.roomwidth=0
+fidelity.clarity.enable=true
+dynamicsystem.coeffs=100;5600;40;80;50;50
+colorfulmusic.midimage=150
+fidelity.clarity.mode=0
+convolver.enable=true
+playbackgain.ratio=50
+vhs.qual=0
+fireq=custom
+viperddc.device=
+convolver.crosschannel=0
+reverb.dry=50
+convolver.kernel=/storage/emulated/legacy/ViPER4Android/Kernel/X-FiXtremeFidelityOnlyCrystalizer-Mid.irs
+fidelity.bass.enable=true
+fidelity.bass.freq=60
+dynamicsystem.enable=false
+fidelity.bass.gain=200
+colorfulmusic.coeffs=120;200
+reverb.damp=0
+reverb.roomsize=0
+limiter=100
+channelpan=0
+playbackgain.volume=80
+enable=true
+fireq.enable=true
+cure.enable=true
+reverb.wet=0
+cure.crossfeed=0
+vse.value=56;7600
