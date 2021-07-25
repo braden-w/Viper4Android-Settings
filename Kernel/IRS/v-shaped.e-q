@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+  <Electri-Q Version="AIXcoustic Electri-Q v1.0" Processing_Mode="Digital" Economy_Mode="On" Bands="4" Channels="2" Channel_Link="Equal" Range="15" Analyzer="none">
+    SHE3580-27
+    <Left Bands="4">
+      <Filter_1 Frequency="27.850414276123" Gain="0.287356317043304" Bandwidth="2" Type="LowShelf" Locked_Frequency="False" Locked_Gain="False" Locked_Q="False">
+        1
+      </Filter_1>
+      <Filter_2 Frequency="89.9999847412109" Gain="10" Bandwidth="1.60000002384186" Type="LowShelf" Locked_Frequency="False" Locked_Gain="False" Locked_Q="False">
+        2
+      </Filter_2>
+      <Filter_3 Frequency="846.206420898438" Gain="-10.4022989273071" Bandwidth="1" Type="Gain" Locked_Frequency="False" Locked_Gain="False" Locked_Q="False">
+        3
+      </Filter_3>
+      <Filter_4 Frequency="4000" Gain="4.5" Bandwidth="2" Type="HighShelf" Locked_Frequency="False" Locked_Gain="False" Locked_Q="False">
+        4
+      </Filter_4>
+    </Left>
+  </Electri-Q>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+  <Electri-Q Version="AIXcoustic Electri-Q v1.0" Processing_Mode="Digital" Economy_Mode="On" Bands="21" Channels="2" Channel_Link="Equal" Range="15" Analyzer="none">
+    Default
+    <Left Bands="21">
+      <Filter_1 Frequency="109.615760803223" Gain="1.55172419548035" Bandwidth="2" Type="Peak Type I" Locked_Frequency="False" Locked_Gain="False" Locked_Q="False">
+        1
+      </Filter_1>
+      <Filter_2 Frequency="371.921661376953" Gain="-1.14206898212433" Bandwidth="1" Type="Peak Type I" Locked_Frequency="False" Locked_Gain="False" Locked_Q="False">
+        2
+      </Filter_2>
+      <Filter_3 Frequency="494.787200927734" Gain="1.13701140880585" Bandwidth="0.5" Type="Peak Type I" Locked_Frequency="False" Locked_Gain="False" Locked_Q="False">
+        3
+      </Filter_3>
+      <Filter_4 Frequency="1276.40576171875" Gain="3.35080480575562" Bandwidth="0.699999988079071" Type="Peak Type I" Locked_Frequency="False" Locked_Gain="False" Locked_Q="False">
+        4
+      </Filter_4>
+      <Filter_5 Frequency="1969.78308105469" Gain="-2.74620676040649" Bandwidth="1" Type="Peak Type I" Locked_Frequency="False" Locked_Gain="False" Locked_Q="False">
+        5
+      </Filter_5>
+      <Filter_6 Frequency="3110.03735351563" Gain="1.61195349693298" Bandwidth="0.400000005960464" Type="Peak Type I" Locked_Frequency="False" Locked_Gain="False" Locked_Q="False">
+        6
+      </Filter_6>
+      <Filter_7 Frequency="6170" Gain="4.88599967956543" Bandwidth="0.300000011920929" Type="Peak Type I" Locked_Frequency="False" Locked_Gain="False" Locked_Q="False">
+        7
+      </Filter_7>
+      <Filter_8 Frequency="8977" Gain="9.05199527740479" Bandwidth="0.300000011920929" Type="Peak Type I" Locked_Frequency="False" Locked_Gain="False" Locked_Q="False">
+        8
+      </Filter_8>
+      <Filter_9 Frequency="8022.9775390625" Gain="6.35999965667725" Bandwidth="0.300000011920929" Type="Peak Type I" Locked_Frequency="False" Locked_Gain="False" Locked_Q="False">
+        9
+      </Filter_9>
+      <Filter_10 Frequency="8410" Gain="-1.61199951171875" Bandwidth="0.150000005960464" Type="Peak Type I" Locked_Frequency="False" Locked_Gain="False" Locked_Q="False">
+        10
+      </Filter_10>
+      <Filter_11 Frequency="6761" Gain="-1.22199988365173" Bandwidth="0.300000011920929" Type="Peak Type I" Locked_Frequency="False" Locked_Gain="False" Locked_Q="False">
+        11
+      </Filter_11>
+      <Filter_12 Frequency="4380.52294921875" Gain="-0.707126438617706" Bandwidth="1" Type="Peak Type I" Locked_Frequency="False" Locked_Gain="False" Locked_Q="False">
+        12
+      </Filter_12>
+      <Filter_13 Frequency="12479.9990234375" Gain="-1.7810001373291" Bandwidth="0.400000005960464" Type="Peak Type I" Locked_Frequency="False" Locked_Gain="False" Locked_Q="False">
+        13
+      </Filter_13>
+      <Filter_14 Frequency="10420" Gain="2.98099970817566" Bandwidth="0.300000011920929" Type="Peak Type I" Locked_Frequency="False" Locked_Gain="False" Locked_Q="False">
+        14
+      </Filter_14>
+      <Filter_15 Frequency="14480" Gain="2.75600075721741" Bandwidth="0.200000002980232" Type="Peak Type I" Locked_Frequency="False" Locked_Gain="False" Locked_Q="False">
+        15
+      </Filter_15>
+      <Filter_16 Frequency="19189.998046875" Gain="5.05300045013428" Bandwidth="0.129999995231628" Type="Peak Type I" Locked_Frequency="False" Locked_Gain="False" Locked_Q="False">
+        16
+      </Filter_16>
+      <Filter_17 Frequency="20000" Gain="3.16091966629028" Bandwidth="1" Type="Highshelf (48dB/Oct)" Locked_Frequency="False" Locked_Gain="False" Locked_Q="False">
+        17
+      </Filter_17>
+      <Filter_18 Frequency="7239.48583984375" Gain="0.862069010734558" Bandwidth="0.300000011920929" Type="Peak Type I" Locked_Frequency="False" Locked_Gain="False" Locked_Q="False">
+        18
+      </Filter_18>
+      <Filter_19 Frequency="11300.458984375" Gain="-0.632183909416199" Bandwidth="0.300000011920929" Type="Peak Type I" Locked_Frequency="False" Locked_Gain="False" Locked_Q="False">
+        19
+      </Filter_19>
+      <Filter_20 Frequency="13878.8125" Gain="-1.24183917045593" Bandwidth="0.300000011920929" Type="Peak Type I" Locked_Frequency="False" Locked_Gain="False" Locked_Q="False">
+        20
+      </Filter_20>
+      <Filter_21 Frequency="15700" Gain="-1.31700015068054" Bandwidth="0.25" Type="Peak Type I" Locked_Frequency="False" Locked_Gain="False" Locked_Q="False">
+        21
+      </Filter_21>
+    </Left>
+  </Electri-Q>

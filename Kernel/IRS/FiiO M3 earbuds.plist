@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"><plist version="1.0"><dict><key>eqId</key><string>608f6bc3-789d-4b12-85a1-859c552aea37</string><key>eqType</key><integer>0</integer><key>filePath</key><string>/data/data/com.onkyo.jp.musicplayer/files/Preset_EQ/FiiO M3 earbuds.plist</string>
+<key>numPoints</key><integer>23</integer>
+<key>offsetGain</key><string>0</string>
+<key>points</key>
+<array>
+<array><real>32</real><real>4.4</real></array>
+<array><real>42</real><real>6.5</real></array>
+<array><real>48.5</real><real>6.75</real></array>
+<array><real>55.253</real><real>6.9</real></array>
+<array><real>108.37</real><real>0</real></array>
+<array><real>169.16</real><real>-2.8</real></array>
+<array><real>198.48</real><real>-3.2</real></array>
+<array><real>970.5</real><real>-3.4</real></array>
+<array><real>1276.4</real><real>-4.7</real></array>
+<array><real>1463.8</real><real>-7</real></array>
+<array><real>2095</real><real>3.4</real></array>
+<array><real>3025</real><real>-2.2</real></array>
+<array><real>3526</real><real>-1.9</real></array>
+<array><real>4745</real><real>-6.4</real></array>
+<array><real>6418</real><real>6.6</real></array>
+<array><real>6638</real><real>6.4</real></array>
+<array><real>6890</real><real>6.4</real></array>
+<array><real>8200</real><real>-5.8</real></array>
+<array><real>10000</real><real>0</real></array>
+<array><real>11964</real><real>4.4</real></array>
+<array><real>13411</real><real>4.8</real></array>
+<array><real>20000</real><real>4.9</real></array>
+<array><real>32000.0</real><real>4.9</real></array>
+</array>
+<key>presetName</key><string>FiiO M3 earbuds</string></dict></plist>

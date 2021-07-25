@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+  <Electri-Q Version="AIXcoustic Electri-Q v1.0" Processing_Mode="Digital" Economy_Mode="On" Bands="10" Channels="2" Channel_Link="Equal" Range="15" Analyzer="none">
+    Default
+    <Left Bands="10">
+      <Filter_1 Frequency="441" Gain="4.75999736785889" Bandwidth="1" Type="Highpass (48dB/Oct)" Locked_Frequency="False" Locked_Gain="False" Locked_Q="False">
+        1
+      </Filter_1>
+      <Filter_2 Frequency="441" Gain="1.12000072002411" Bandwidth="1" Type="Highpass (48dB/Oct)" Locked_Frequency="False" Locked_Gain="False" Locked_Q="False">
+        2
+      </Filter_2>
+      <Filter_3 Frequency="440.999938964844" Gain="5.19999742507935" Bandwidth="1" Type="Lowpass (48dB/Oct)" Locked_Frequency="False" Locked_Gain="False" Locked_Q="False">
+        3
+      </Filter_3>
+      <Filter_4 Frequency="441" Gain="2.47999954223633" Bandwidth="1" Type="Lowpass (48dB/Oct)" Locked_Frequency="False" Locked_Gain="False" Locked_Q="False">
+        4
+      </Filter_4>
+      <Filter_5 Frequency="441" Gain="4.75499725341797" Bandwidth="1" Type="Lowpass (48dB/Oct)" Locked_Frequency="False" Locked_Gain="False" Locked_Q="False">
+        5
+      </Filter_5>
+      <Filter_6 Frequency="441" Gain="2.55599927902222" Bandwidth="1" Type="Highpass (48dB/Oct)" Locked_Frequency="False" Locked_Gain="False" Locked_Q="False">
+        6
+      </Filter_6>
+      <Filter_7 Frequency="441" Gain="1.47199845314026" Bandwidth="1" Type="Highpass (48dB/Oct)" Locked_Frequency="False" Locked_Gain="False" Locked_Q="False">
+        7
+      </Filter_7>
+      <Filter_8 Frequency="441" Gain="1.64799988269806" Bandwidth="1" Type="Highpass (48dB/Oct)" Locked_Frequency="False" Locked_Gain="False" Locked_Q="False">
+        8
+      </Filter_8>
+      <Filter_9 Frequency="441" Gain="2.40000009536743" Bandwidth="1" Type="Lowpass (48dB/Oct)" Locked_Frequency="False" Locked_Gain="False" Locked_Q="False">
+        9
+      </Filter_9>
+      <Filter_10 Frequency="441" Gain="3.67999935150146" Bandwidth="1" Type="Lowpass (48dB/Oct)" Locked_Frequency="False" Locked_Gain="False" Locked_Q="False">
+        10
+      </Filter_10>
+    </Left>
+  </Electri-Q>

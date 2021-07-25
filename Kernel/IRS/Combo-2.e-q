@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+  <Electri-Q Version="AIXcoustic Electri-Q v1.0" Processing_Mode="Digital" Economy_Mode="Off" Bands="5" Channels="2" Channel_Link="Equal" Range="15" Analyzer="none">
+    Basedrum
+    <Left Bands="5">
+      <Filter_1 Frequency="135" Gain="-6.60000228881836" Bandwidth="0.200000002980232" Type="Peak Type I" Locked_Frequency="False" Locked_Gain="False" Locked_Q="False">
+        1
+      </Filter_1>
+      <Filter_2 Frequency="154.395034790039" Gain="-4.54022979736328" Bandwidth="0.5" Type="Peak Type I" Locked_Frequency="False" Locked_Gain="False" Locked_Q="False">
+        2
+      </Filter_2>
+      <Filter_3 Frequency="875.693969726563" Gain="-2.58620691299438" Bandwidth="2.81919455528259" Type="Gain" Locked_Frequency="False" Locked_Gain="False" Locked_Q="True">
+        3
+      </Filter_3>
+      <Filter_4 Frequency="3486.2001953125" Gain="2.81609201431274" Bandwidth="3" Type="HighShelf" Locked_Frequency="False" Locked_Gain="False" Locked_Q="False">
+        4
+      </Filter_4>
+      <Filter_5 Frequency="58" Gain="10" Bandwidth="0.0500000007450581" Type="Peak Type I" Locked_Frequency="False" Locked_Gain="False" Locked_Q="False">
+        5
+      </Filter_5>
+    </Left>
+  </Electri-Q>
